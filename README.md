@@ -1,2 +1,2 @@
 # DotFiles
-Handy DotFiles for common projects, use share PRs welcome
+Handy DotFiles for common programming languages, stacks and frameworks use ,share and PRs are always welcome.
